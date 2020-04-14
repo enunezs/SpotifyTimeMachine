@@ -2,9 +2,9 @@
 
 A lost project of mine. Unfortunately, I cant seem to find the source code anywhere. Still got the output though!
 
-It was a simple Python webscrapper that ripped [Artist Title] tuples from yearly world charts at [http://tsort.info/](http://tsort.info/) into a file, and then build a Spotify playlist of the results.
+It was a simple Python webscrapper that ripped [Artist - Title] tuples from yearly world charts at [http://tsort.info/](http://tsort.info/) into a file, and then build a Spotify playlist of the results.
 
-The result was the insane number of playlists with the top songs for each year from 1950 to 1999, plus some extra ones for the whole decades. Its a shame I never ran it for the 2000s and beyond, but I was never super into recent music.
+The result is a large number of extremely entertaining playlists with the 100 top songs for each year from 1950 to 1999, plus some extra ones for the whole decades. Its a shame I never ran it for the 2000s and beyond, but I was never super into recent music.
 
 | [50s](https://open.spotify.com/playlist/3YCYPJpGSZNJyYFop8WqzW) | [60s](https://open.spotify.com/playlist/27klzFFLwXGsqtb3xCTqlr) | [70s](https://open.spotify.com/playlist/7m6ItBHQhUj43kOH4mBPqD) | [80s](https://open.spotify.com/playlist/7i0QmkvEs1AkDAmNmMoQT8) | [90s](https://open.spotify.com/playlist/3SIPT1Vq1Hjpzb73JaSJTk) |
 |-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|-----------------------------------------------------------------|
@@ -19,6 +19,9 @@ The result was the insane number of playlists with the top songs for each year f
 |                                                                 | [68](https://open.spotify.com/playlist/6Rus8tBipWOzPDXPptVu8d)  | [78](https://open.spotify.com/playlist/2NjB8HqFNrUPRfgNUbCyQW)  | [88](https://open.spotify.com/playlist/44G0tPyQsEyxivU2KjCYCf)  | [98](https://open.spotify.com/playlist/4UB26lgpxTHiTxNCF3HPFD)  |
 |                                                                 | [69](https://open.spotify.com/playlist/7aD4zMIu2apaOu9GnoHtBJ)  | [79](https://open.spotify.com/playlist/6TT9ePo09H75z8V3H1kOCd)  | [89](https://open.spotify.com/playlist/3O3dBQlp5usZxpIyiuVfEA)  | [99](https://open.spotify.com/playlist/3kRx0LIQn3QGhFp0vrBavr)  |
 
+
+
+<!---
 LINKS
 
 [50s](https://open.spotify.com/playlist/3YCYPJpGSZNJyYFop8WqzW)
@@ -79,4 +82,4 @@ LINKS
 [97](https://open.spotify.com/playlist/3wn1rC4S7hyPekUctZUEQx)
 [98](https://open.spotify.com/playlist/4UB26lgpxTHiTxNCF3HPFD)
 [99](https://open.spotify.com/playlist/3kRx0LIQn3QGhFp0vrBavr)
-
+-->
